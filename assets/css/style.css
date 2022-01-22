@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #960f3c;
+  color: #e03a3c;
   text-decoration: none;
 }
 
@@ -459,12 +459,12 @@ section {
 
 .section-bg {
   padding: 120px 0;
-  color: #0b0b0b;
+  color: #d0d0d0;
 }
 
 .section-bg:before {
   content: "";
-  background: #e7e6c7;
+  background: #16101d;
   position: absolute;
   bottom: 60px;
   top: 60px;
