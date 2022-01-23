@@ -2111,6 +2111,9 @@ section {
     .abouttab {
 		padding-top: 55px !important;
 	}
+	h1.logo.me-auto {
+    width: 100px;
+}
 }
 h1.logo.me-auto {
     font-size: 1.2rem !important;
