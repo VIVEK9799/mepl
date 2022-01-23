@@ -2107,7 +2107,9 @@ section {
 @media (max-width: 768px) {
     .bosslogo {
     color: black !important;
-    
+    .abouttab {
+		padding-top: 55px !important;
+	}
 }
 h1.logo.me-auto {
     font-size: 1.2rem !important;
