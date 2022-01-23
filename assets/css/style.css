@@ -2141,5 +2141,8 @@ h1.logo.me-auto {
 @media (min-width: 768px) {
 	.mobmenulogo {
     display: none !important;
+	}
+	.mapgoogle {
+    max-width: 546px;
 }}
 
